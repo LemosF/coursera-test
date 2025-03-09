@@ -2,6 +2,18 @@
 .row {
     width: 100%;
   }
+
+  #b1 {
+    background-color: #A52A2A;
+    width: 300px;
+    height: 300px;
+  }
+
+  #b2 {
+    background-color: #A52A2A;
+    width: 300px;
+    height: 300px;
+  }
   
   /********** Large devices only **********/
   @media (min-width: 1200px) {
